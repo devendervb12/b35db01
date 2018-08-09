@@ -1,0 +1,9 @@
+{
+   "companyData" : {
+                 "name" : "s-max123",
+                 "address" : {
+                            "hno" : 103,
+                            "city": "Hyderabad"   
+                            }  
+             }
+}
